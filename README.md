@@ -1,13 +1,13 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vRyqtOn9)
 # UPS - Licence Info - ILU2
 
-### NOM :
-### Prénom :
-### Groupe de TP :
+### NOM : NGUYEN
+### Prénom : Tuan Anh
+### Groupe de TP : B12
 - [ ] A11
 - [ ] A12
 - [ ] B11
-- [ ] B12
+- [x] B12
 
 ## Instructions
 
